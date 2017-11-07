@@ -2,6 +2,8 @@
 In this exercise, you'll practice resolving a merge conflict.
 
 > How To Train Your Dragon
+=======
+> WARNING!!
 
 For this exercise, complete the following steps:
 
